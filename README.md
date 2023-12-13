@@ -255,3 +255,6 @@ An FMCG company entered into the instant noodles business two years back. Their 
 - Fine-tuned parameters include learning rate, maximum depth, and subsampling.
 #### Scalability:
 - The model's effectiveness remains consistent across different scales, ensuring robust performance.
+
+## Conclusion
+The evaluation of different regressors revealed that the Gradient Boosting Regressor outperformed other models, including the Random Forest. With lower mean squared error and mean absolute error, the Gradient Boosting Regressor exhibited superior predictive accuracy for the target variable. Its R² score, approaching 99%, indicates a strong fit to the dataset. Hence, based on the results obtained, the Gradient Boosting Regressor stands out as the optimal choice, providing the most accurate and precise predictions for this specific dataset.
